@@ -6,7 +6,8 @@ Bu kod deposu, Women in Tech Academy Bitirme Projesi'ni yayınlamak amacıyla ol
 
 Women in Tech Academy Projesi Nedir?
 
-Toplum Gönüllüleri Vakfı tarafından desteklenen Women in Tech Academy Projesi, üniversite 3. & 4. sınıf veya üniversite mezunu 20-28 yaş aralığındaki genç kadınları, eğitimlerle uzmanlaştırıp güçlenmelerine katkı sağlayarak yazılım sektöründe iş gücüne katılımını hedefleyen bir eğitim bütünüdür.
+SistersLab’in Toplum Gönüllüleri Vakfı (link:https://www.tog.org.tr/en/) tarafından desteklenen Women in Tech Academy Projesi, üniversite 3. & 4. sınıf veya üniversite mezunu 20-28 yaş aralığındaki genç kadınları, eğitimlerle uzmanlaştırıp güçlenmelerine katkı sağlayarak yazılım sektöründe iş gücüne katılımını hedefleyen bir eğitim bütünüdür. Ben de bu katılımcılarından biriyim. 
+
 
 Proje kapsamında, NBA verilerini içeren 5 farklı csv dosyası analiz edilmiştir. Analizler görsel ögelerle desteklenmiştir.
 Numpy, Pandas, Seaborn, Matplotlib gibi pek çok veri bilimi modülü kullanılmıştır. Detaylara .ipynb uzantılı kod dosyasından erişebilirsiniz.
